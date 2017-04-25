@@ -1,3 +1,3 @@
 git add .
-git commit -m "rivise"
+git commit -m "revise"
 git push origin master 
