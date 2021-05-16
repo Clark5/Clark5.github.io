@@ -1,9 +1,9 @@
 # Site settings
-title: Weitao Wang's Blog
-SEOTitle: Weitao's Blog
+title: Weitao's Blog
+SEOTitle: Weitao Wang's Blog
 header-img: img/home-bg.jpg
 email: wtwang@rice.com
-description: "Fourth Year Ph.D. Student at Rice University."
+description: "Contact: wtwang AT rice.edu"
 keyword: "Weitao Wang, Programmable Hardware, Heterogeneous System, Distributed System, Data Center Network, Optical Network Architecture"
 url: "https://clark5.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
