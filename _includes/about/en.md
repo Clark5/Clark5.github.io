@@ -1,4 +1,4 @@
-Hi, this is Weitao Wang. I am a thrid-year Ph.D. Student at Rice University. My current research focuses on application-infrastracture codesign, including smart/programmable hardware, heterogeneous system, distributed system, data center network, systems for AI and AI-powered system.
+Hi, this is Weitao Wang. I am a thrid-year Ph.D. Student at Rice University. My current research focuses on application-infrastracture codesign, including programmable hardware, heterogeneous system, distributed system, data center network, systems for AI and AI-powered system.
 
 ### Publications
 
