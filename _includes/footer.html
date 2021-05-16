@@ -238,13 +238,13 @@
     function _render() {
         var lang = getLang()
         // en
-        if (lang == "en") {
+        if (lang == "ch") {
             $select.selectedIndex = 1;
             $en.style.display = "block";
             $en.classList.add("active");
             $zh.style.display = "none";
             $zh.classList.remove("active");
-            // default to zh-cn
+            // default to eg
         } else {
             $select.selectedIndex = 0;
             $zh.style.display = "block";
