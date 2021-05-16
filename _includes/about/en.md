@@ -9,5 +9,5 @@ Hi, this is Weitao Wang. I am a thrid-year Ph.D. Student at Rice University. My 
 
 * **Say No to Rack Boundaries: Towards A Reconfigurable Pod-Centric DCN Architecture** 
     Dingming Wu, Weitao Wang, Ang Chen, T.S. Eugene Ng
-    [SOSR 2021](https://conferences.sigcomm.org/sosr/2019/)
+    [SOSR 2019](https://conferences.sigcomm.org/sosr/2019/)
     [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3314148.3314350?casa_token=5jdB8I6NLKkAAAAA:zbDA8whzGE0s0t66UMyqPBrCUiWb4t-hwyWiJNp41OF-Lv7cPt-E29e4DBjSx-2zueZlLBlwPeos)
