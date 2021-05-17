@@ -16,7 +16,7 @@ Most of the people with some achievements have curiosity, concentration, and per
 
 ### Proud or Conceited?
 
-People, who are smart and can over perform others easily, are usually born with confidence. The knowledge they have and the success they achieved make their confidence even "worse" --- over-confidence.
+People, who are smart and can out perform others easily, are usually born with confidence. The knowledge they have and the success they achieved make their confidence even "worse" --- over-confidence.
 
 An proud man may get mad easily if someone else proved that he is wrong, while an arrogant man may even feel upsets when he find himself to be wrong.
 
