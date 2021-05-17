@@ -24,4 +24,6 @@ Proud people don't want to negate himself, cause it would lead to self-doubt, th
 
 ### The reason why I wrote this
 
-Simple, it is because one of my ideas was deemphasized in the paper based on the group discussion, I was upset at first, but soon realize the group has lead me to the correct way. Actually I am not one of those guys who hesitate to self-criticize and change themselves, instead, I wrote this post to prevent me from becoming one of those.
+Simple, it is because one of my ideas was deemphasized in the paper based on the group discussion, I was upset at first, but soon realize the group has lead me to the correct way. 
+
+Actually I am not one of those guys who hesitate to self-criticize and change themselves, instead, I wrote this post to prevent me from becoming one of those.
