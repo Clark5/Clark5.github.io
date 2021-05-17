@@ -101,4 +101,36 @@ page-mathjax: false
 
 
 # Friends
-friends: []
+friends: [
+  {
+    title: "Yaowei Huang",
+    href: "https://huangyaowei.github.io/"
+  },{
+    title: "Jiefeng Li",
+    href: "https://jeffli.site/"
+  },{
+    title: "Fengyu Deng",
+    href: "https://github.com/DFY8054"
+  },{
+    title: "Hao Wu",
+    href: "https://scholar.google.com/citations?user=xKwVyZkAAAAJ&hl=en"
+  },{
+    title: "Yucheng Yang",
+    href: "https://scholar.google.com/citations?user=Ik7LI4EAAAAJ&hl=en"
+  },{
+    title: "Jiachen Sun",
+    href: "https://web.eecs.umich.edu/~jiachens/"
+  },{
+    title: "Shuheng Liao",
+    href: "https://www.linkedin.com/in/shuheng-liao-290117155/"
+  },{
+    title: "Dingming Wu",
+    href: "https://dmwu.github.io/"
+  },{
+    title: "Jiarong Xing",
+    href: "https://jxing.me/"
+  },{
+    title: "Qiao Kang",
+    href: "https://qiaokang.org/"
+  }
+]
