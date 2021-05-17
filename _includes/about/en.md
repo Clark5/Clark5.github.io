@@ -7,7 +7,6 @@ I grew up in Anhui, China. And before joining Rice, I received my B.S. degree in
 ### Publications
 
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
-
 * **Grasp the Root Causes in the Data Plane: Diagnosing Latency Problems with SpiderMon** 
     Weitao Wang, Praveen Tammana, Ang Chen, T. S. Eugene Ng
     [SOSR 2020](https://conferences.sigcomm.org/sosr/2020/) 
