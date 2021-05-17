@@ -4,7 +4,7 @@ title:      "Why I am a believer of Engineering Cybernetics"
 subtitle:   ""
 date:       2021-05-16 
 author:     "Weitao Wang"
-header-img: "img/post-bg-digital-native.jpg"
+header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
     - Caprice
