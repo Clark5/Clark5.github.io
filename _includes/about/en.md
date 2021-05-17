@@ -21,5 +21,4 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
 ### Contact
 
 Email: wtwang AT rice.edu
-
 You can also leave a message in the following Disqus.
