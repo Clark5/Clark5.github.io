@@ -11,7 +11,7 @@ tags:
     - Research
 ---
 
-## View network as a part of the operating system
+## View network as a part of the OS
 
 Nowadays, the latency requirement and the throughput desire on the network keep increasing, along with the new technologies like NVMe, Optane memory, in-memory file system, and disaggregated data centers. The bottleneck of the services is shifting from the host-side CPU/GPU computation to the network transmission.
 
