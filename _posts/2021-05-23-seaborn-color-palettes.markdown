@@ -4,7 +4,7 @@ title:      "Seaborn Color Palettes"
 subtitle:   ""
 date:       2021-05-23 
 author:     "Weitao Wang"
-header-img: "img/post-bg-os-metro.jpg"
+header-img: "img/post-bg-css.jpg"
 catalog: true
 tags:
     - Visualization
