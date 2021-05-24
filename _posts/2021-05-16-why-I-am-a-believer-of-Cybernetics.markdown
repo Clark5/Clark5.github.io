@@ -7,8 +7,8 @@ author:     "Weitao Wang"
 header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
-    - Research Mottos
-    - Engineering Cybernetics
+    - Mottos
+    - Cybernetics
 ---
 
 > "The purpose of "Engineering Cybernetics" is then to study those parts of the broad science of cybernetics which have direct engineering applications in designing controlled or guided systems. It certainly includes such topics usually treated in books on servomechanisms. But a wider range of topics is only one difference between engineering cybernetics and servomechanisms engineering. A deeper - and thus more important - difference lies in the fact that engineering cybernetics is an engineering science, while servomechanisms engineering is an engineering practice." --- Xuesen Qian

@@ -7,7 +7,7 @@ author:     "Weitao Wang"
 header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
-    - Research Mottos
+    - Mottos
 ---
 
 > "Success comes from curiosity, concentration, perseverance and self criticism." --- Albert Einstein

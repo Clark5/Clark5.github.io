@@ -7,8 +7,8 @@ author:     "Weitao Wang"
 header-img: "img/post-bg-css.jpg"
 catalog: true
 tags:
-    - Visualization
-    - Coding Experience
+    - Visual
+    - Coding
 ---
 
 # Seaborn Color Palettes
