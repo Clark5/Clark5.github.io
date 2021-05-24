@@ -2,7 +2,7 @@
 
 I love Seaborn's color, but I need more customization from the Matplotlib, so I find out the color palettes of Seaborn and post here.
 
-![Seaborn Color Palettes](../img/2021-05-23/color_palettes.png)
+![Seaborn Color Palettes](/img/2021-05-23/color_palettes.png)
 
 ~~~ python
 color_pastel = [u'#a1c9f4', u'#ffb482', u'#8de5a1', u'#ff9f9b', u'#d0bbff', u'#debb9b', u'#fab0e4', u'#cfcfcf', u'#fffea3', u'#b9f2f0']
