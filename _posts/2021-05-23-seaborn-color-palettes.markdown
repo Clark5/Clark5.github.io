@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      "Seaborn Color Palettes"
+subtitle:   ""
+date:       2021-05-23 
+author:     "Weitao Wang"
+header-img: "img/post-bg-os-metro.jpg"
+catalog: true
+tags:
+    - Visualization
+    - Coding Experience
+---
+
 # Seaborn Color Palettes
 
 I love Seaborn's color, but I need more customization from the Matplotlib, so I find out the color palettes of Seaborn and post here.
