@@ -7,6 +7,9 @@ I grew up in Anhui, China. And before joining Rice, I received my B.S. degree in
 ### Publications
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 
+**SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches** 
+Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
+[NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf]
 **Grasp the Root Causes in the Data Plane: Diagnosing Latency Problems with SpiderMon** 
 Weitao Wang, Praveen Tammana, Ang Chen, T. S. Eugene Ng
 [SOSR 2020](https://conferences.sigcomm.org/sosr/2020/) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373360.3380835) [[slides]](https://conferences.sigcomm.org/sosr/2020/slides/spidermon_sosr.pptx) [[video]](https://www.youtube.com/watch?v=SYbr8W_JG6A)
