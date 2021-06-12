@@ -47,7 +47,7 @@ There are a lot of science theories in this world. Some of them are fundamental 
 
 By abstracting the problems, you will get a simple, native, and mathematical description of the problems. After that, it would be much easier for you to find out the relevant theoretical supports.
 
-Another benefit is that, with abstraction, you could solve similar engineering problems in the near future. Based on my knowledge, a specific engineering subject is usually related to a group of science fields. For example, the task scheduling highly relies on queuing theory, the data center network is built on top of the graph theory, and the machine learning is also a practice of Bayes' theorem.
+Another benefit is that, with abstraction, you could solve similar engineering problems in the near future. Based on my knowledge, a specific engineering subject is usually related to a certain group of science fields. For example, the task scheduling highly relies on queuing theory, the data center network is built on top of the graph theory, and the machine learning is also a practice of Bayes' theorem.
 
 Last but not the least, abstraction is significant when you call for help. Our current society is highly developed with highly specialized division of labor, it is no longer encouraged to work on your own. Mathematicians, physicists, materials scientists, etc, should work together with engineers before designing any complex engineering systems. **It is much easier for you, the engineers, to provide an abstracted problem to those scientist, rather than require a 76-years-old mathematicians to learn circuit design by himself.**
 
