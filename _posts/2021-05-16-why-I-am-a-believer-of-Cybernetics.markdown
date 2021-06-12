@@ -27,7 +27,7 @@ People knows a lot about the practice and summarize the experience from the dail
 
 But sometimes the theory does not work as you expected, it is not because the theory are wrong, instead, it is the input of the system that should be blame for. One of the laws of nature is that the observations are always random variables with a mean and a variance. This variance partly comes from the nature of the object that we are observing, and partly comes from the observation process itself.
 
-For instance, you can measure the length of 10 pens aside a assembly line to infer the average of one million pens that was made by this assembly line, but you cannot do the same thing to infer the average human heights in a district. Similarly, when you measure the length of pens, you will tend to have similar measurements using a vernier caliper rather than using the palm of your hand for estimation.
+For instance, you can measure the length of 10 pens aside a assembly line to infer the average of one million pens that was made by this assembly line, but measuring 10 random people is far from enough to infer the average human heights in a district. Similarly, when you measure the length of pens, you will tend to have similar measurements using a vernier caliper rather than using the palm of your hand for estimation.
 
 In this case, your system need to handle the all the inputs that locate insides the valid probabilistic range. **Not only be aware of the probabilities, the systems should be designed based on the observation on the inputs' randomness.**
 
