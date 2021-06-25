@@ -1,6 +1,7 @@
 Hi, this is Weitao Wang. I am a thrid-year Ph.D. student at [Rice University](https://www.rice.edu/), advised by [Prof. T. S. Eugene Ng](https://www.cs.rice.edu/~eugeneng/). I also work closely with [Prof. Ang Chen](https://www.cs.rice.edu/~angchen/), and a group of great researchmates, Sushovan Das, Afsaneh Rahbar, Crystal (Xinyu) Wu, and Zhuang Wang.
 &nbsp;&nbsp;&nbsp;&nbsp;My current research focuses on application-infrastructure co-design, including programmable hardware, heterogeneous systems, distributed systems, data center network, systems for AI, and AI-powered systems.
 &nbsp;&nbsp;&nbsp;&nbsp;I grew up in Anhui, China. And before joining Rice, I received my B.S. degree in Computer Science from [Shanghai Jiao Tong Univeristy](https://en.sjtu.edu.cn/) in 2018.
+
 ### Publications
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
