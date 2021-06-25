@@ -8,20 +8,20 @@ I grew up in Anhui, China. And before joining Rice, I received my B.S. degree in
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
-    * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
-    * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf]
-**Abstractions for Reconfigurable Hybrid Network Update and A Consistent Update Approach**
-&nbsp;&nbsp;&nbsp;&nbsp;Weitao Wang, Sushovan Das, T. S. Eugene Ng
-&nbsp;&nbsp;&nbsp;&nbsp;[OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
-**Towards All-optical Circuit-switched Network Cores: The Case for Mitigating Traffic Skewness at the Edge**
-&nbsp;&nbsp;&nbsp;&nbsp;Sushovan Das, Weitao Wang, T. S. Eugene Ng
-&nbsp;&nbsp;&nbsp;&nbsp;[OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
-**Grasp the Root Causes in the Data Plane: Diagnosing Latency Problems with SpiderMon**
-&nbsp;&nbsp;&nbsp;&nbsp;Weitao Wang, Praveen Tammana, Ang Chen, T. S. Eugene Ng
-&nbsp;&nbsp;&nbsp;&nbsp;[SOSR 2020](https://conferences.sigcomm.org/sosr/2020/) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373360.3380835) [[slides]](https://conferences.sigcomm.org/sosr/2020/slides/spidermon_sosr.pptx) [[video]](https://www.youtube.com/watch?v=SYbr8W_JG6A)
-**Say No to Rack Boundaries: Towards A Reconfigurable Pod-Centric DCN Architecture**
-&nbsp;&nbsp;&nbsp;&nbsp;Dingming Wu, Weitao Wang, Ang Chen, T. S. Eugene Ng
-&nbsp;&nbsp;&nbsp;&nbsp;[SOSR 2019](https://conferences.sigcomm.org/sosr/2019/) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3314148.3314350?casa_token=5jdB8I6NLKkAAAAA:zbDA8whzGE0s0t66UMyqPBrCUiWb4t-hwyWiJNp41OF-Lv7cPt-E29e4DBjSx-2zueZlLBlwPeos)
+ * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
+ * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf]
+* **Abstractions for Reconfigurable Hybrid Network Update and A Consistent Update Approach**
+ * Weitao Wang, Sushovan Das, T. S. Eugene Ng
+ * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
+* **Towards All-optical Circuit-switched Network Cores: The Case for Mitigating Traffic Skewness at the Edge**
+ * Sushovan Das, Weitao Wang, T. S. Eugene Ng
+ * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
+* **Grasp the Root Causes in the Data Plane: Diagnosing Latency Problems with SpiderMon**
+ * Weitao Wang, Praveen Tammana, Ang Chen, T. S. Eugene Ng
+ * [SOSR 2020](https://conferences.sigcomm.org/sosr/2020/) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373360.3380835) [[slides]](https://conferences.sigcomm.org/sosr/2020/slides/spidermon_sosr.pptx) [[video]](https://www.youtube.com/watch?v=SYbr8W_JG6A)
+* **Say No to Rack Boundaries: Towards A Reconfigurable Pod-Centric DCN Architecture**
+ * Dingming Wu, Weitao Wang, Ang Chen, T. S. Eugene Ng
+ * [SOSR 2019](https://conferences.sigcomm.org/sosr/2019/) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3314148.3314350?casa_token=5jdB8I6NLKkAAAAA:zbDA8whzGE0s0t66UMyqPBrCUiWb4t-hwyWiJNp41OF-Lv7cPt-E29e4DBjSx-2zueZlLBlwPeos)
 
 ### Contact
 Email: wtwang AT rice.edu
