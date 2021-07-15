@@ -6,15 +6,15 @@ Hi, this is Weitao Wang. I am a thrid-year Ph.D. student at [Rice University](ht
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
   * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
-  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf(coming)]
+  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf] (coming)
 * **MXDAG: A Hybrid Abstraction for Cluster Applications**
   * Weitao Wang, Sushovan Das, Crystal Wu, Zhuang Wang, Ang Chen, T. S. Eugene Ng
-  * [arXiv 2021](https://arxiv.org/) [pdf(coming)]
+  * [arXiv 2021](https://arxiv.org/) [pdf] coming)
 * **Abstractions for Reconfigurable Hybrid Network Update and A Consistent Update Approach**
-  * Weitao Wang, Sushovan Das, T. S. Eugene Ng [pdf(coming)]
+  * Weitao Wang, Sushovan Das, T. S. Eugene Ng [pdf] (coming)
   * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
 * **Towards All-optical Circuit-switched Network Cores: The Case for Mitigating Traffic Skewness at the Edge**
-  * Sushovan Das, Weitao Wang, T. S. Eugene Ng [pdf(coming)]
+  * Sushovan Das, Weitao Wang, T. S. Eugene Ng [pdf] (coming)
   * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
 * **Shufflecast: An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters**
   * Sushovan Das, Afsaneh Rahbar, Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, Ang Chen, T. S. Eugene Ng
