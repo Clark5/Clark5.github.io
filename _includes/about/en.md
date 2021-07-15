@@ -9,7 +9,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf] (coming)
 * **MXDAG: A Hybrid Abstraction for Cluster Applications**
   * Weitao Wang, Sushovan Das, Crystal Wu, Zhuang Wang, Ang Chen, T. S. Eugene Ng
-  * [arXiv 2021](https://arxiv.org/) [pdf] coming)
+  * [arXiv 2021](https://arxiv.org/) [pdf] (coming)
 * **Abstractions for Reconfigurable Hybrid Network Update and A Consistent Update Approach**
   * Weitao Wang, Sushovan Das, T. S. Eugene Ng [pdf] (coming)
   * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
