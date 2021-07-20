@@ -11,11 +11,11 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   * Weitao Wang, Sushovan Das, Crystal Wu, Zhuang Wang, Ang Chen, T. S. Eugene Ng
   * [arXiv 2021](https://arxiv.org/) [pdf] (coming)
 * **Abstractions for Reconfigurable Hybrid Network Update and A Consistent Update Approach**
-  * Weitao Wang, Sushovan Das, T. S. Eugene Ng [pdf] (coming)
-  * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
+  * Weitao Wang, Sushovan Das, T. S. Eugene Ng 
+  * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) [pdf] (coming)
 * **Towards All-optical Circuit-switched Network Cores: The Case for Mitigating Traffic Skewness at the Edge**
-  * Sushovan Das, Weitao Wang, T. S. Eugene Ng [pdf] (coming)
-  * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html)
+  * Sushovan Das, Weitao Wang, T. S. Eugene Ng 
+  * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) [pdf] (coming)
 * **Shufflecast: An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters**
   * Sushovan Das, Afsaneh Rahbar, Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, Ang Chen, T. S. Eugene Ng
   * [arXiv 2021](https://arxiv.org/abs/2104.09680) [[pdf]](https://arxiv.org/pdf/2104.09680.pdf)
