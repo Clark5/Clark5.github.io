@@ -1,1 +1,1 @@
-Hi，我是Weitao Wang. 
+Hi，我是Weitao wang. 
