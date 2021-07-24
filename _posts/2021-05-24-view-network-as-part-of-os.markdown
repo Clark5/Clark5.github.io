@@ -17,4 +17,4 @@ Nowadays, the latency requirement and the throughput desire on the data center n
 
 To solve this problem, industries as well as academias all accepted that the network should be viewed as an I/O of the operating systems and a latency-target should be given along with the transmission tasks to the network stack. However, is it really a good choice to leave the network transmissions unattended and accept the possibility of SLO violations?
 
-To be continued...
+The benefit from this new view can be explained in one of my paper: [MXDAG: A Hybrid Abstraction for Cluster Applications](https://arxiv.org/abs/2107.07442).
