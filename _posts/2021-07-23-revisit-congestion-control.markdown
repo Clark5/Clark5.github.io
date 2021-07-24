@@ -4,7 +4,7 @@ title:      "Revisit Congestion Control"
 subtitle:   ""
 date:       2021-07-23
 author:     "Weitao Wang"
-header-img: "img/post-bg-datacenter-network.jpg"
+header-img: "img/404-bg.jpg"
 catalog: true
 tags:
     - Network
