@@ -1,4 +1,4 @@
-Hi，我是Weitao wang. 
+Hi，我是Weitao Wang. 
 
 ### Publications
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
