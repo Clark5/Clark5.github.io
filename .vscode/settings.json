@@ -1,0 +1,21 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/_posts/2021-05-16-why-I-am-a-believer-of-Cybernetics.markdown"
+            ],
+            "config": {
+                "audience": "knowledgeable",
+                "dialect": "american",
+                "domain": "academic",
+                "emotions": [
+                    "neutral"
+                ],
+                "goals": []
+            }
+        }
+    ],
+    "cSpell.enableFiletypes": [
+        "markdown"
+    ]
+}
