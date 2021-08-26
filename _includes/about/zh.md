@@ -1,5 +1,7 @@
 我的中文名叫王伟涛，是一名美国莱斯大学的在读博士生。我的导师是[T. S. Eugene Ng](https://www.cs.rice.edu/~eugeneng/)教授。同时我也是一名谷歌公司的学生研究员。
 
+我目前的研究方向主要在设计应用与系统相结合的高性能计算平台，包括可编程硬件，异质性系统，分布式系统，数据中心网络，以及专注于优化人工智能应用的系统。
+
 ### 学术论文
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
