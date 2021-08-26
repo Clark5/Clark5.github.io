@@ -12,8 +12,4 @@ tags:
     - Research
 ---
 
-# All Starting from TCP
-
-# Fluid Model
-
-# One Nit in all the Previous Works
+Will be updated at the end of the year.
