@@ -1,6 +1,6 @@
-Hi，我是Weitao Wang. 
+我的中文名叫王伟涛，是一名美国莱斯大学的在读博士生。我的导师是[T. S. Eugene Ng](https://www.cs.rice.edu/~eugeneng/)教授。同时我也是一名谷歌公司的学生研究员。
 
-### Publications
+### 学术论文
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
   * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
