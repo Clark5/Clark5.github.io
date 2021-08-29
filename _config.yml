@@ -79,7 +79,7 @@ ga_domain: weitaowang.site
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "My name is Weitao Wang, a third-year PhD student at Rice Univ. Check out my Homepage."
+sidebar-about-description: "My name is Weitao Wang, a third-year PhD student at Rice Univ. Check out my [Homepage](weitaowang.site/about)."
 sidebar-avatar: /img/wwt.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
