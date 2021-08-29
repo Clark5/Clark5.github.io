@@ -3,14 +3,11 @@
   <h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
   <div class="short-about">
     {% if site.sidebar-avatar %}
-    <a href="{{'/about/' | prepend: site.baseurl }}">
-      <img src="{{site.sidebar-avatar}}" />
-    </a>
+    <img src="{{site.sidebar-avatar}}" />
     {% endif %}
     {% if site.sidebar-about-description %}
-    <a href="{{'/about/' | prepend: site.baseurl }}">
-      <p>{{site.sidebar-about-description}}</p>
-    </a>
+    
+      <p><a href="{{'/about/' | prepend: site.baseurl }}">{{site.sidebar-about-description}}</a></p>
     {% endif %}
     <!-- SNS Link -->
     {% include sns-links.html %}
