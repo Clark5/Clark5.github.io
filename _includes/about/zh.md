@@ -10,6 +10,9 @@
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
   * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
   * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf] (coming)
+* **Shufflecast: An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters**
+  * Sushovan Das, Afsaneh Rahbar, Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, Ang Chen, T. S. Eugene Ng
+  * [ToN 2022](https://dl.acm.org/journal/ton) [[pdf]](https://arxiv.org/pdf/2104.09680.pdf)
 * **MXDAG: A Hybrid Abstraction for Cluster Applications**
   * Weitao Wang, Sushovan Das, Crystal Wu, Zhuang Wang, Ang Chen, T. S. Eugene Ng
   * [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [[pdf]](https://arxiv.org/abs/2107.07442) [[video]](https://www.youtube.com/watch?v=YI3Nvk9GqU4)
@@ -19,9 +22,6 @@
 * **Towards All-optical Circuit-switched Network Cores: The Case for Mitigating Traffic Skewness at the Edge**
   * Sushovan Das, Weitao Wang, T. S. Eugene Ng
   * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) [[pdf]](https://www.cs.rice.edu/~eugeneng/papers/OptSys21-AllOptical.pdf)
-* **Shufflecast: An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters**
-  * Sushovan Das, Afsaneh Rahbar, Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, Ang Chen, T. S. Eugene Ng
-  * [arXiv 2021](https://arxiv.org/abs/2104.09680) [[pdf]](https://arxiv.org/pdf/2104.09680.pdf)
 * **Grasp the Root Causes in the Data Plane: Diagnosing Latency Problems with SpiderMon**
   * Weitao Wang, Praveen Tammana, Ang Chen, T. S. Eugene Ng
   * [SOSR 2020](https://conferences.sigcomm.org/sosr/2020/) [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3373360.3380835) [[slides]](https://conferences.sigcomm.org/sosr/2020/slides/spidermon_sosr.pptx) [[video]](https://www.youtube.com/watch?v=SYbr8W_JG6A)
