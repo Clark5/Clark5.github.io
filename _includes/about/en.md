@@ -6,10 +6,10 @@ Hi, this is Weitao Wang. I am a third-year Ph.D. student at [Rice University](ht
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **RDC: Relieving Data Center Network Congestion with Topological Reconfigurability at the Edge**
   * Weitao Wang, Dingming Wu, Sushovan Das, Afsaneh Rahbar, Ang Chen, T. S. Eugene Ng
-  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_rdc.pdf)
+  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_rdc.pdf)
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
   * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
-  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [pdf](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_spidermon.pdf)
+  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_spidermon.pdf)
 * **Shufflecast: An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters**
   * Sushovan Das, Afsaneh Rahbar, Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, Ang Chen, T. S. Eugene Ng
   * [ToN 2022](https://dl.acm.org/journal/ton) [[pdf]](https://arxiv.org/pdf/2104.09680.pdf)
