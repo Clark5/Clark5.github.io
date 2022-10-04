@@ -6,13 +6,13 @@
 你也可以查看我的[谷歌学术个人页面](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **Poseidon: Efficient, Robust, and Practical Datacenter CC via Deployable INT**
   * Weitao Wang, Masoud Moshref, Yuliang Li, Gautam Kumar, T. S. Eugene Ng, Neal Cardwell, Nandita Dukkipati
-  * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [pdf]
+  * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://weitaowang.site/papers/poseidon.pdf)
 * **RDC: Relieving Data Center Network Congestion with Topological Reconfigurability at the Edge**
   * Weitao Wang, Dingming Wu, Sushovan Das, Afsaneh Rahbar, Ang Chen, T. S. Eugene Ng
-  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_rdc.pdf) [[slides]](https://www.usenix.org/system/files/nsdi22_slides_wang-weitao-rdc.pdf)
+  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_rdc.pdf) [[slides]](https://www.usenix.org/system/files/nsdi22_slides_wang-weitao-rdc.pdf) [[video]](https://www.youtube.com/watch?v=JKQl2cVTI40)
 * **SpiderMon: Harnessing Wait-For Relations for Performance Debugging with Programmable Switches**
   * Weitao Wang, Crystal Wu, Praveen Tammana, Ang Chen, T. S. Eugene Ng
-  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_spidermon.pdf) [[slides]](https://www.usenix.org/system/files/nsdi22_slides_wang-weitao-spidermon.pdf)
+  * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_spidermon.pdf) [[slides]](https://www.usenix.org/system/files/nsdi22_slides_wang-weitao-spidermon.pdf) [[video]](https://www.youtube.com/watch?v=Jwp7x2ixfFs)
 * **Shufflecast: An Optical, Data-rate Agnostic and Low-Power Multicast Architecture for Next-Generation Compute Clusters**
   * Sushovan Das, Afsaneh Rahbar, Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, Ang Chen, T. S. Eugene Ng
   * [ToN 2022](https://dl.acm.org/journal/ton) [[pdf]](https://arxiv.org/pdf/2104.09680.pdf)
