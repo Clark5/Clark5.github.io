@@ -21,7 +21,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   * [HotNets 2021](https://conferences.sigcomm.org/hotnets/2021/) [[pdf]](https://arxiv.org/abs/2107.07442) [[slides]](https://weitaowang.site/papers/mxdag_slides.pdf) [[video]](https://www.youtube.com/watch?v=YI3Nvk9GqU4)
 * **Abstractions for Reconfigurable Hybrid Network Update and A Consistent Update Approach**
   * Weitao Wang, Sushovan Das, T. S. Eugene Ng
-  * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) [[pdf]](https://www.cs.rice.edu/~eugeneng/papers/OptSys21-ConsistentUpdate.pdf) [[video]](https://www.youtube.com/watch?v=7d-jvfzxAU0)
+  * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) [[pdf]](https://www.cs.rice.edu/~eugeneng/papers/OptSys21-ConsistentUpdate.pdf) [[slides]](https://weitaowang.site/papers/transtate_slides.pdf) [[video]](https://www.youtube.com/watch?v=7d-jvfzxAU0)
 * **Towards All-optical Circuit-switched Network Cores: The Case for Mitigating Traffic Skewness at the Edge**
   * Sushovan Das, Weitao Wang, T. S. Eugene Ng
   * [OptSys Workshop 2021](https://conferences.sigcomm.org/sigcomm/2021/workshop-optsys.html) [[pdf]](https://www.cs.rice.edu/~eugeneng/papers/OptSys21-AllOptical.pdf)
