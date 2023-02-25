@@ -8,7 +8,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   * Weitao Wang, Masoud Moshref, Yuliang Li, Gautam Kumar, T. S. Eugene Ng, Neal Cardwell, Nandita Dukkipati
   * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://weitaowang.site/papers/poseidon.pdf) [[code]](https://github.com/Clark5/Poseidon.git)
   * Typo: Page 6: "The larger m is, the slower the rate of update will be" -> "The smaller m is, the slower the rate of update will be"
-  * Typo: Page 7 first sentence: "the target delay is D." -> "the observed delay is D."
+  * Typo: Page 7: "the target delay is D." -> "the observed delay is D."
 * **RDC: Relieving Data Center Network Congestion with Topological Reconfigurability at the Edge**
   * Weitao Wang, Dingming Wu, Sushovan Das, Afsaneh Rahbar, Ang Chen, T. S. Eugene Ng
   * [NSDI 2022](https://www.usenix.org/conference/nsdi22) [[pdf]](https://www.usenix.org/system/files/nsdi22-paper-wang_weitao_rdc.pdf) [[slides]](https://www.usenix.org/system/files/nsdi22_slides_wang-weitao-rdc.pdf) [[video]](https://www.youtube.com/watch?v=JKQl2cVTI40)
