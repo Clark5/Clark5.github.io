@@ -7,7 +7,7 @@ Hi, this is Weitao Wang. I am a 5th-year Ph.D. student at [Rice University](http
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **Poseidon: Efficient, Robust, and Practical Datacenter CC via Deployable INT**
   * Weitao Wang, Masoud Moshref, Yuliang Li, Gautam Kumar, T. S. Eugene Ng, Neal Cardwell, Nandita Dukkipati
-  * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://weitaowang.site/papers/poseidon.pdf) [[code]](https://github.com/Clark5/Poseidon.git)
+  * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://www.usenix.org/system/files/nsdi23-wang-weitao.pdf) [[code]](https://github.com/Clark5/Poseidon.git) [[slides]]() [[video]]()
   * Typo: Page 6: "The larger m is, the slower the rate of update will be" -> "The smaller m is, the slower the rate of update will be"
   * Typo: Page 7: "the target delay is D." -> "the observed delay is D."
 * **RDC: Relieving Data Center Network Congestion with Topological Reconfigurability at the Edge**
