@@ -102,6 +102,10 @@ page-mathjax: false
 # Friends
 friends: [
   {
+    title: "Liangcheng Yu",
+    href: "https://liangchengyu.com/"
+  },
+  {
     title: "Yaowei Huang",
     href: "https://huangyaowei.github.io/"
   },{
