@@ -5,6 +5,9 @@ Hi, this is Weitao Wang. I am a 5th-year Ph.D. student at [Rice University](http
 
 ### Publications
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
+* **Augmented Queue: A Scalable In-Network Abstraction for Data Center Network Sharing**
+  * Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, T. S. Eugene Ng
+  * [SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/) [[pdf]]()
 * **Poseidon: Efficient, Robust, and Practical Datacenter CC via Deployable INT**
   * Weitao Wang, Masoud Moshref, Yuliang Li, Gautam Kumar, T. S. Eugene Ng, Neal Cardwell, Nandita Dukkipati
   * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://www.usenix.org/system/files/nsdi23-wang-weitao.pdf) [[code]](https://github.com/Clark5/Poseidon.git) [[slides]]() [[video]]()
