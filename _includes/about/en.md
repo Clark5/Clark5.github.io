@@ -10,7 +10,7 @@ You can also browse my [Google Scholar profile](https://scholar.google.com/citat
   * [SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/) [[pdf]]()
 * **Poseidon: Efficient, Robust, and Practical Datacenter CC via Deployable INT**
   * Weitao Wang, Masoud Moshref, Yuliang Li, Gautam Kumar, T. S. Eugene Ng, Neal Cardwell, Nandita Dukkipati
-  * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://www.usenix.org/system/files/nsdi23-wang-weitao.pdf) [[code]](https://github.com/Clark5/Poseidon.git) [[slides]]() [[video]]()
+  * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://www.usenix.org/system/files/nsdi23-wang-weitao.pdf) [[code]](https://github.com/Clark5/Poseidon.git) [[slides]](https://www.usenix.org/system/files/nsdi23_slides_wang-weitao.pdf) [[video]](https://www.usenix.org/conference/nsdi23/presentation/wang-weitao)
   * Typo: Page 6: "The larger m is, the slower the rate of update will be" -> "The smaller m is, the slower the rate of update will be"
   * Typo: Page 7: "the target delay is D." -> "the observed delay is D."
 * **RDC: Relieving Data Center Network Congestion with Topological Reconfigurability at the Edge**
