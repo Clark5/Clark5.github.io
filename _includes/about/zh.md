@@ -2,6 +2,8 @@
 
 我目前的研究方向主要在设计应用与系统相结合的高性能计算平台，包括拥塞控制算法，云应用规划，可编程硬件，异质性系统，分布式系统，数据中心网络，以及专注于优化人工智能应用的系统。
 
+**I will be on academic job market from Oct 2023.**
+
 ### 学术论文
 你也可以查看我的[谷歌学术个人页面](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **Augmented Queue: A Scalable In-Network Abstraction for Data Center Network Sharing**
