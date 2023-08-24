@@ -102,6 +102,10 @@ page-mathjax: false
 # Friends
 friends: [
   {
+    title: "Zichang Liu",
+    href: "https://zichangliu.notion.site"
+  },
+  {
     title: "Liangcheng Yu",
     href: "https://liangchengyu.com/"
   },
@@ -138,5 +142,8 @@ friends: [
   },{
     title: "Sushovan Das",
     href: "https://www.linkedin.com/in/sushovan-das-5aa913a9/"
+  },{
+    title: "Weitao Wang",
+    href: "https://weitaowang.notion.site"
   }
 ]
