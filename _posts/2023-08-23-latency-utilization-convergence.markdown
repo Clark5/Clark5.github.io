@@ -20,7 +20,9 @@ The congestion control algorithms that only receive feedback from the aggregated
 
 ### LUC Theorem 
 
-For the above-defined distributed CC algorithms, we argue a fundamental trade-off among the following three goals: For any distributed congestion control algorithm, at most 2 out of the 3 goals can be achieved: zero queuing latency (L), full utilization (U), and convergence (C).
+For the above-defined distributed CC algorithms, we argue a fundamental trade-off among the following three goals: 
+
+**LUC Theorem: For any distributed congestion control algorithm, at most 2 out of the 3 goals can be achieved: zero queuing latency (L), full utilization (U), and convergence (C).**
 
 The above theorem is based on the fact that the distributed CC algorithms are only allowed to use signals from the aggregated traffic. The intuition is that: (1) Under "LU", specifically 100\% bandwidth utilization without any queuing, distributed CC algorithms will not notice any signal changes, and consequently, each individual flow will not perform any update. (2) Under "LC", the aggregated throughput must change to give meaningful feedback. Assuming the maximum aggregated throughput is 100\% of the bandwidth, the lower aggregated throughput will under-utilize the link. (3) Under "UC", zero queuing latency cannot be achieved for a similar reason as "LC".
 
