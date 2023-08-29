@@ -7,6 +7,8 @@ Hi, this is Weitao Wang. I am a 5th-year Ph.D. student at [Rice University](http
 
 ### Publications
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
+* **Aurelia: CXL Fabric with Tentacle**
+  * [WORDS 2023](https://www.wordsworkshop.org/) Kevin Wang, Weitao Wang [[pdf]]()
 * **Augmented Queue: A Scalable In-Network Abstraction for Data Center Network Sharing**
   * Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, T. S. Eugene Ng
   * [SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/) [[pdf]]()
