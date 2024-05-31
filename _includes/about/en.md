@@ -5,7 +5,7 @@ Hi, this is Weitao Wang. I am a 5th-year Ph.D. student at [Rice University](http
 
 ~~I am currently on academic job market.~~
 
-I am currently on industry job market! (May 2024)
+**I am currently on industry job market! (May 2024)**
 
 ### Publications
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
