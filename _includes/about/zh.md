@@ -6,9 +6,15 @@
 
 ### 学术论文
 你也可以查看我的[谷歌学术个人页面](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
+* **Soze: One Network Telemetry Is All You Need For Per-flow Weighted Bandwidth Allocation at Scale**
+  * Weitao Wang, T. S. Eugene Ng
+  * [OSDI 2025](https://www.usenix.org/conference/osdi25) [[pdf]]()
+* **Aurelia: CXL Fabric with Tentacle**
+  * Kevin Wang, Weitao Wang
+  * [WORDS 2023](https://www.wordsworkshop.org/) [[pdf]](https://dl.acm.org/doi/10.1145/3605181.3626287)
 * **Augmented Queue: A Scalable In-Network Abstraction for Data Center Network Sharing**
   * Xinyu Crystal Wu, Zhuang Wang, Weitao Wang, T. S. Eugene Ng
-  * [SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/) [[pdf]]()
+  * [SIGCOMM 2023](https://conferences.sigcomm.org/sigcomm/2023/) [[pdf]](https://dl.acm.org/doi/10.1145/3603269.3604858)
 * **Poseidon: Efficient, Robust, and Practical Datacenter CC via Deployable INT**
   * Weitao Wang, Masoud Moshref, Yuliang Li, Gautam Kumar, T. S. Eugene Ng, Neal Cardwell, Nandita Dukkipati
   * [NSDI 2023](https://www.usenix.org/conference/nsdi23) [[pdf]](https://www.usenix.org/system/files/nsdi23-wang-weitao.pdf) [[code]](https://github.com/Clark5/Poseidon.git) [[slides]](https://www.usenix.org/system/files/nsdi23_slides_wang-weitao.pdf) [[video]](https://www.usenix.org/conference/nsdi23/presentation/wang-weitao)
