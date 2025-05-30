@@ -9,7 +9,7 @@ I joined Google in November 2024.
 You can also browse my [Google Scholar profile](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **Soze: One Network Telemetry Is All You Need For Per-flow Weighted Bandwidth Allocation at Scale**
   * Weitao Wang, T. S. Eugene Ng
-  * [OSDI 2025](https://www.usenix.org/conference/osdi25) [[pdf]]()
+  * [OSDI 2025](https://www.usenix.org/conference/osdi25) [[pdf]](https://weitaowang.site/papers/soze.pdf)
 * **Aurelia: CXL Fabric with Tentacle**
   * Kevin Wang, Weitao Wang
   * [WORDS 2023](https://www.wordsworkshop.org/) [[pdf]](https://dl.acm.org/doi/10.1145/3605181.3626287)
