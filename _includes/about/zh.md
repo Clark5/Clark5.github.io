@@ -8,7 +8,10 @@
 你也可以查看我的[谷歌学术个人页面](https://scholar.google.com/citations?user=0wdebjkAAAAJ&hl=en).
 * **Soze: One Network Telemetry Is All You Need For Per-flow Weighted Bandwidth Allocation at Scale**
   * Weitao Wang, T. S. Eugene Ng
-  * [OSDI 2025](https://www.usenix.org/conference/osdi25) [[pdf]]()
+  * [OSDI 2025](https://www.usenix.org/conference/osdi25) [[pdf]](https://weitaowang.site/papers/soze.pdf)
+* **Firefly: Scalable, Ultra-Accurate Clock Synchronization for Datacenters**
+  * Pooria Namyar, Yuliang Li, Weitao Wang, Nandita Dukkipati, KK Yap, Junzhi Gong, Chen Chen, Peixuan Gao, Devdeep Ray, Gautam Kumar, Yidan Ma, Ramesh Govindan, Amin Vahdat
+  * [SIGCOMM 2025](https://conferences.sigcomm.org/sigcomm/2025/) [[pdf]]()
 * **Aurelia: CXL Fabric with Tentacle**
   * Kevin Wang, Weitao Wang
   * [WORDS 2023](https://www.wordsworkshop.org/) [[pdf]](https://dl.acm.org/doi/10.1145/3605181.3626287)
